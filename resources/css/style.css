@@ -1,14 +1,22 @@
 html {
   font-family: Helvetica, sans-serif;
   text-align: center;
+  font-weight: bold;
 }
 p {
   font-size: 14px;
+  font-weight: normal;
 }
 h1 {
   font-size: 70px;
 }
-.color {
+h3 {
+  font-size: 23px;
+}
+h2 {
+  font-size: 32px;
+}
+.color, a {
   color: white;
 }
 .header {
